@@ -1,0 +1,194 @@
+{
+  "name": "Najmus Shakib",
+  "designation": [
+    "Front-End Developer",
+    "Back-End Developer",
+    "Full-Stack Web Developer"
+  ],
+  "about_me_short_description": "Are you a startup looking for a custom website solution? Highly skilled MERN stack developer with 2+ years of experience creating dynamic and efficient web applications. I have the expertise to precisely fit your business needs. I will collaborate closely with you to ensure your website not only meets your expectations but helps you achieve your business goals. I believe in delivering quality code, real-time updates, pixel-perfect design, and optimization of websites.",
+  "about_me_long_description": "I am a highly motivated, ambitious, and creative person who can delight you by creating amazing websites. My skills and expertise include JavaScript, TypeScript, ReactJS, NextJS, NodeJS, Rest API, and Web development. I have worked on several projects that involved building scalable web applications, designing RESTful APIs, and implementing complex algorithms using JavaScript. Outside of work, I enjoy exploring new technologies, attending tech meetups, and contributing to open-source projects. My passion for coding extends beyond work, and I am always looking for ways to improve my skills and knowledge. Overall, I am a dedicated and experienced software developer who is committed to delivering high-quality solutions that exceed expectations.",
+  "birthday": "17 octobar 1999",
+  "website": "https://najmus-shakib.netlify.app/",
+  "facebook": "https://www.facebook.com/najmus.shakib.5876",
+  "linkedin": "https://www.linkedin.com/in/najmus-shakib-581508207/",
+  "github": "https://github.com/najmusshakib350",
+  "youtube": "https://www.youtube.com/channel/UCZtduRnuNuuK0ezlqJrzd6Q",
+  "degree": "CSE",
+  "city": "Dhaka",
+  "age": "26",
+  "email": "shakibn350@gmail.com",
+  "phone": "(+88) 01988 267635",
+  "freelance": "available",
+  "resume": "#",
+  "location": "Dhaka, Mirpur 1216",
+  "skills": [
+    {
+      "name": "HTML",
+      "percentage": "80%"
+    },
+    {
+      "name": "CSS",
+      "percentage": "80%"
+    },
+    {
+      "name": "JavaScript",
+      "percentage": "75%"
+    },
+    {
+      "name": "TypeScript",
+      "percentage": "70%"
+    },
+    {
+      "name": "React js",
+      "percentage": "75%"
+    },
+    {
+      "name": "Next js",
+      "percentage": "75%"
+    },
+    {
+      "name": "Node js",
+      "percentage": "70%"
+    },
+    {
+      "name": "MongoDB",
+      "percentage": "65%"
+    },
+    {
+      "name": "MySQL",
+      "percentage": "70%"
+    },
+    {
+      "name": "Docker",
+      "percentage": "60%"
+    }
+  ],
+  "education": [
+    {
+      "degreeName": "B.Sc in Computer Science & Engineering",
+      "universityName": "Daffodil International University (DIU)",
+      "cgpa": "CGPA - 3.80 Out of 4.00",
+      "year": "( 2018 - 2022 )"
+    }
+  ],
+  "experience": [
+    {
+      "designation": "MERN Stack Developer",
+      "organizationName": "Elitbuzz Technologies Ltd",
+      "date": "October 2023 - Present",
+      "responsibilities": [
+        "Develop user interfaces using Next.js, ensuring responsiveness and user-friendly design.",
+        "Implement server-side logic using Node.js and Express.js, including authentication, data validation, and database interactions.",
+        "Manage MySQL databases using Prisma, including schema design, indexing, and query optimization.",
+        "Integrate third-party services and APIs into the application for enhanced functionality."
+      ]
+    },
+    {
+      "designation": "Junior Software Engineer",
+      "organizationName": "RAC Engineering Workshop",
+      "date": "September 2022 - September 2023",
+      "responsibilities": [
+        "Requirement analysis.",
+        "Front-end development.",
+        "Api Integrate & Development."
+      ]
+    },
+    {
+      "designation": "Freelancer Fiverr",
+      "date": "April 2020 - February 2022",
+      "responsibilities": [
+        "Develop NodeJS Restful API with Express and MongoDB.",
+        "Front-end development.",
+        "MERN Stack tutor."
+      ]
+    },
+    {
+      "designation": "Student Prefect of Data Structure course",
+      "contact_person": "Contact Person: Ms. Tania Khatun-Assistant Professor(DIU)",
+      "date": "May 2019 - December 2019",
+      "responsibilities": [
+        "Assisted weaker students to overcome their weaknesses in the data structure course."
+      ]
+    }
+  ],
+  "services": [
+    {
+      "SERVICES_I_OFFER": [
+        "SaaS applications",
+        "E-commerce web applications",
+        "Management software",
+        "Custom website development (frontend and backend)",
+        "Website creation from scratch",
+        "API integration",
+        "Solving bugs/debugging",
+        "Authentication/Authorization/Social Auth",
+        "Payment gateways",
+        "Figma to html, PSD to html, XD to html conversion",
+        "Database architecture (MySQL, MongoDB)",
+        "Deployments"
+      ],
+      "YOU_CAN_EXPECT": [
+        "Dedicated Support with Regular updates",
+        "Successful project delivery",
+        "Unlimited revisions for your 100% satisfaction."
+      ]
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "image": "/images/portfolio/04.png",
+      "title": "Food Website",
+      "url": "https://burger-builder-ffc5a.web.app/login",
+      "technologies": ["HTML", "CSS", "ReactJS", "Firebase"],
+      "duration": "2020(Nov) - 2021(Feb)",
+      "description": "A dynamic burger builder application developed using HTML, CSS, ReactJS, and Firebase. This project allows users to create custom burgers by selecting various ingredients. The application features a responsive design, user authentication, and real-time order storage in a Firebase database."
+    },
+    {
+      "id": 2,
+      "image": "/images/portfolio/03.png",
+      "title": "Tour Website",
+      "url": "https://tour-8wz7.onrender.com/",
+      "technologies": ["HTML", "CSS", "Pug", "NodeJS", "ExpressJS", "MongoDB"],
+      "duration": "2021(March) - 2021(July)",
+      "description": "Developed as part of a learning course, this engaging web application leverages HTML, CSS, Pug, NodeJS, ExpressJS, and MongoDB. The project features dynamic web pages rendered server-side with Pug, comprehensive user authentication, and seamless CRUD operations with MongoDB."
+    },
+    {
+      "id": 3,
+      "image": "/images/portfolio/000.png",
+      "title": "Blockchain Based Secure E-Voting System",
+      "url": "https://drive.google.com/file/d/1JFl6wnBNnMgr9G6y5ofYTO2Y3HXoXCEq/view",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "Ethereum",
+        "Solidity",
+        "Ganache",
+        "Metamask",
+        "NodeJS",
+        "MySQL"
+      ],
+      "duration": "2021(October) - 2022(April)",
+      "description": "We successfully designed and implemented an online voting system using cutting-edge technologies such as Ethereum, Solidity, Ganache, and Metamask. This project allows users to cast their votes securely and effortlessly."
+    },
+    {
+      "id": 4,
+      "image": "/images/portfolio/02.png",
+      "title": "Ecommerce Website",
+      "url": "https://drive.google.com/file/d/1dbX1No6q81VVbKigGAd7IK_L-FNOzHxJ/view",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "NextJS",
+        "NodeJS",
+        "ExpressJS",
+        "MongoDB",
+        "Mailtrap",
+        "SendGrid",
+        "NextAuth.js"
+      ],
+      "duration": "2022(Jan) - 2022(April)",
+      "description": "This application is developed by Next.js and Node.js, integrating Stripe payment gateway for seamless transactions. Implemented backend functionalities for a smooth user experience, including order processing and payment confirmation. Integrated Mailtrap and SendGrid services to ensure efficient email communication, with users receiving confirmation emails upon successful purchases."
+    }
+  ]
+}
