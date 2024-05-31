@@ -224,7 +224,7 @@ const Contact = () => {
                     href={data.website}
                     className="dark:text-white text-[#000] text-[14px] font-roboto font-normal tracking-wide text-center "
                   >
-                    Najmus-Shakib.Com
+                    najmus-shakib.me
                   </Link>
                 </div>
               </div>
