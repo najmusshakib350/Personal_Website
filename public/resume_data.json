@@ -192,7 +192,7 @@
     },
      {
       "id": 6,
-      "image": "/images/portfolio/04.png",
+      "image": "/images/portfolio/group-tracker.png",
       "title": "GroupTrackr",
       "url": "https://group-application.onrender.com/",
       "technologies": ["HTML", "CSS", "NextJS",  "NodeJS","ExpressJS", "MongoDB"],
