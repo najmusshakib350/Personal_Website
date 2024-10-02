@@ -189,6 +189,15 @@
       ],
       "duration": "2022(Jan) - 2022(April)",
       "description": "This application is developed by Next.js and Node.js, integrating Stripe payment gateway for seamless transactions. Implemented backend functionalities for a smooth user experience, including order processing and payment confirmation. Integrated Mailtrap and SendGrid services to ensure efficient email communication, with users receiving confirmation emails upon successful purchases."
-    }
+    },
+     {
+      "id": 1,
+      "image": "/images/portfolio/04.png",
+      "title": "GroupTrackr",
+      "url": "https://group-application.onrender.com/",
+      "technologies": ["HTML", "CSS", "NextJS",  "NodeJS","ExpressJS", "MongoDB"],
+      "duration": "2022(May) - 2022(Sep)",
+      "description": "GroupMapper is a dynamic platform that allows users to create and manage groups, update user locations in real-time on an interactive map, and easily track movements. Whether organizing teams or managing group locations."
+    },
   ]
 }
