@@ -198,6 +198,6 @@
       "technologies": ["HTML", "CSS", "NextJS",  "NodeJS","ExpressJS", "MongoDB"],
       "duration": "2022(May) - 2022(Sep)",
       "description": "GroupMapper is a dynamic platform that allows users to create and manage groups, update user locations in real-time on an interactive map, and easily track movements. Whether organizing teams or managing group locations."
-    },
+    }
   ]
 }
