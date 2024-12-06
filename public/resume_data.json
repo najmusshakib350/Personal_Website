@@ -19,7 +19,7 @@
   "email": "shakibn350@gmail.com",
   "phone": "(+88) 01988 267635",
   "freelance": "available",
-  "resume": "https://drive.google.com/file/d/1tE-dOlsmrim-UcAdU7QugEzopIxtP7v2/view?usp=sharing",
+  "resume": "https://drive.google.com/file/d/10fpM6gCSsW5tFDXUBMcQcdLXh37p6f0y/view?usp=sharing",
   "location": "Dhaka, Mirpur 1216",
   "skills": [
     {
@@ -75,12 +75,12 @@
     {
       "designation": "MERN Stack Developer",
       "organizationName": "Elitbuzz Technologies Ltd",
-      "date": "October 2023 - October 2024",
+      "date": "October 2023 - November 2024",
       "responsibilities": [
-        "Develop user interfaces using Next.js, ensuring responsiveness and user-friendly design.",
-        "Implement server-side logic using Node.js and Express.js, including authentication, data validation, and database interactions.",
+        "Designed secure APIs and Server-side logic with NestJS.",
+        "Developed real-time features using Socket.IO for efficient communication and updates.",
         "Manage MySQL databases using Prisma, including schema design, indexing, and query optimization.",
-        "Integrate third-party services and APIs into the application for enhanced functionality."
+        "Integrated front-end and back-end systems for real-time data flow."
       ]
     },
     {
@@ -88,18 +88,16 @@
       "organizationName": "RAC Engineering Workshop",
       "date": "September 2022 - September 2023",
       "responsibilities": [
-        "Requirement analysis.",
-        "Front-end development.",
-        "Api Integrate & Development."
+        "Built responsive user interfaces with NextJS ensuring seamless user experience.",
+        "Developed secure APIs and server-side logic using ExpressJS.",
       ]
     },
     {
       "designation": "Freelancer Fiverr",
       "date": "April 2020 - February 2022",
       "responsibilities": [
-        "Develop NodeJS Restful API with Express and MongoDB.",
-        "Front-end development.",
-        "MERN Stack tutor."
+        "Developed full-stack web applications by creating RESTful APIs with ExpressJS and MongoDB, and building responsive front-end interfaces using ReactJS.",
+        "Tutored clients in full-stack development with the MERN stack.",
       ]
     },
     {
