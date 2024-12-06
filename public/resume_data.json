@@ -79,7 +79,6 @@
       "responsibilities": [
         "Designed secure APIs and Server-side logic with NestJS.",
         "Developed real-time features using Socket.IO for efficient communication and updates.",
-        "Manage MySQL databases using Prisma, including schema design, indexing, and query optimization.",
         "Integrated front-end and back-end systems for real-time data flow."
       ]
     },
