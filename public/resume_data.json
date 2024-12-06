@@ -89,7 +89,7 @@
       "date": "September 2022 - September 2023",
       "responsibilities": [
         "Built responsive user interfaces with NextJS ensuring seamless user experience.",
-        "Developed secure APIs and server-side logic using ExpressJS.",
+        "Developed secure APIs and server-side logic using ExpressJS."
       ]
     },
     {
@@ -97,7 +97,7 @@
       "date": "April 2020 - February 2022",
       "responsibilities": [
         "Developed full-stack web applications by creating RESTful APIs with ExpressJS and MongoDB, and building responsive front-end interfaces using ReactJS.",
-        "Tutored clients in full-stack development with the MERN stack.",
+        "Tutored clients in full-stack development with the MERN stack."
       ]
     },
     {
@@ -188,12 +188,19 @@
       "duration": "2022(Jan) - 2022(April)",
       "description": "This application is developed by Next.js and Node.js, integrating Stripe payment gateway for seamless transactions. Implemented backend functionalities for a smooth user experience, including order processing and payment confirmation. Integrated Mailtrap and SendGrid services to ensure efficient email communication, with users receiving confirmation emails upon successful purchases."
     },
-     {
+    {
       "id": 6,
       "image": "/images/group-tracker.png",
       "title": "GroupTrackr",
       "url": "https://group-application.onrender.com/",
-      "technologies": ["HTML", "CSS", "NextJS",  "NodeJS","ExpressJS", "MongoDB"],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "NextJS",
+        "NodeJS",
+        "ExpressJS",
+        "MongoDB"
+      ],
       "duration": "2022(May) - 2022(Sep)",
       "description": "GroupMapper is a dynamic platform that allows users to create and manage groups, update user locations in real-time on an interactive map, and easily track movements. Whether organizing teams or managing group locations."
     }
